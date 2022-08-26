@@ -1,0 +1,27 @@
+.Navbar {
+    border-right: 1px solid;
+    flex: 0.3;
+    min-width: 250px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navbar_twittericon {
+    color: var(--twitter-color--);
+    font-size: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+.Navbar__feedback {
+    background-color: rgb(80, 190, 226);
+    color: lightblue;
+    border: none;
+    font-weight: 900;
+    text-transform: inherit;
+    border-radius: 30px;
+    height: 50px;
+    margin-top: 20px;
+    
+}

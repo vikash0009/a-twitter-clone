@@ -1,0 +1,9 @@
+.Subscribe {
+    color: rgb(43, 178, 223);
+    background-color: rgb(98, 197, 236);
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: 10px; 
+    text-align: left;
+}
